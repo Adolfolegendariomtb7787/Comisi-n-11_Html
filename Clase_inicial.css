@@ -1,0 +1,27 @@
+*{
+    margin: 5px;
+    border: 12px;
+    border-color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:large;
+    text-align:justify;
+    background-color: rgb(158, 237, 126);
+    image-orientation: from-image;
+}
+.img {
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    border: 12px;
+    border-color: brown;
+    border-style: solid;
+    align-items: center;
+
+}
+.div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
